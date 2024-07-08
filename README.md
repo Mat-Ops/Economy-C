@@ -1,7 +1,8 @@
 # 📈 ECONOMIA 
 
 Uma atividade desenvolvida em linguagem C que utiliza diversos conceitos de estruturas de dados, ordenação, métodos de pesquisa e busca. O projeto trabalha com dados dos últimos 50 anos, incluindo o ano e a taxa de crescimento real do PIB per capita para esse período.
-
+</br>
+</br>
 
 # 🕵️‍♂️ Utilização do Programa:
 
@@ -18,7 +19,8 @@ Ao iniciar, o programa carregará os dados a partir do arquivo “economia.txt�
 • 5: Pesquisar PIB por ano: Permite pesquisar o PIB de um ano específico.
 
 • 0: Sair: Encerra o programa.
-
+</br>
+</br>
 
 # 🛠 Algoritmos Utilizados
 
@@ -27,8 +29,10 @@ Para ordenação e pesquisa de dados, foram utilizados os seguintes algoritmos:
 • Ordenação: O programa utiliza uma ordenação interna dos dados ao inseri-los na lista encadeada de economia, garantindo que os dados estejam sempre ordenados.
 
 • Pesquisa Binária: Para a pesquisa de dados, é utilizado o algoritmo de busca binária no vetor de economia, o que proporciona uma busca eficiente em uma estrutura de dados ordenada.
+</br>
+</br>
 
-## Instruções de Execução
+# Instruções de Execução
 
 1. Execute o Dev-C++ e abra o diretório do projeto onde existente os arquivos do código fonte (main.c, economia.c e vetor.c) e os arquivos de cabeçalho (economia.h e vetor.h).
 
